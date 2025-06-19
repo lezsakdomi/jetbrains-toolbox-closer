@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Jetbrains Toolbox auto-closer",
+        "Description": "Make Jetbrains Toolbox behave like a menu. Implements TBX-5457",
+        "Icon": "view-right-close",
+        
+        "Authors": [
+            {
+                "Email": "domonkos@lezsak.hu",
+                "Name": "Domonkos Lezsák"
+            }
+        ],
+        "Id": "jetbrains-toolbox-closer",
+        "Version": "1.0.0",
+        "License": "MIT",
+        "Website": "https://github.com/lezsakdomi/jetbrains-toolbox-closer"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
